@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building end-to-end data solutions and reliable data pipelines on cloud platforms (Azure, Databricks)**
 
-- 🌱 I’m currently learning **Google Cloud Platform (GCP) and Generative AI**
+- 🌱 I’m currently learning focusing on **Databricks and Generative AI**
 
 - 💬 Ask me about **Data Architecture, Engineering and Databricks**
 
