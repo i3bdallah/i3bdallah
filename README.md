@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **Building end-to-end data solutions and reliable data pipelines on cloud platforms (Azure, Databricks)**
 
-- 🌱 I’m currently learning focusing on **Databricks and Generative AI**
+- 🌱 My learning nowadays is focused on **Databricks and Generative AI**
 
 - 💬 Ask me about **Data Architecture, Engineering and Databricks**
 
-- 📫 How to reach me **a.kassas@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/i3bdallah](https://github.com/i3bdallah)
+- 📫 How to reach me **a.kassas@gmail.com*
 
 - ⚡ Fun fact **I enjoy Biking 🚵**
 
